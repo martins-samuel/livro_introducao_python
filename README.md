@@ -21,7 +21,7 @@ A organização segue os capítulos do livro:
 - Python 3.13.3
 
 - [Jupyter Notebook](https://jupyter.org/) (opcional, para execução interativa)
-- Editor de código: VS Code, PyCharm, ou outro de sua preferência
+- Editor de código: VS Code, Google Colab, ou outro de sua preferência
 
 ## 📖 Como Utilizar
 
