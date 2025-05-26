@@ -1,6 +1,7 @@
 # 📘 Introdução à Python – Exercícios e Estudos
 
 Bem-vindo ao meu repositório de estudos da linguagem Python! Aqui estão os exercícios que estou resolvendo com base no livro **"Introdução a Python: Algoritmos e Lógicas de Programação para Iniciantes – 4ª edição"**.
+<div><img src= "https://github.com/martins-samuel/livro_introducao_python/blob/main/capa_livro_introducao_python.jpg" alt ="Capa do livro introduçao a Python 4° edição"></div>
 
 ## ✨ Objetivo
 
@@ -28,3 +29,8 @@ A organização segue os capítulos do livro:
 1. Clone este repositório:
    ```sh
    git clone https://github.com/seuusuario/seu-repositorio.git
+<style>
+  div {
+    text-align: center;
+  }
+</style>
