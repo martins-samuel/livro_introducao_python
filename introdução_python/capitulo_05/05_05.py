@@ -16,3 +16,4 @@ while multiplos_encontrados < 10: # O loop continua até encontrarmos 10 múltip
     multiplos_encontrados += 1  # Incrementa o contador de múltiplos encontrados
 
 print("Contagem concluída!")
+#pagina 141
